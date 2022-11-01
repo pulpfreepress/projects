@@ -3,6 +3,7 @@
     "date": "2022-10-24",
     "sport": "Curling",
     "country": "USA",
+    "zipCode": "22042",
     "members": [
         {
             "name": "Beth Biggsly",
